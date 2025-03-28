@@ -57,8 +57,11 @@ I am a passionate software engineer from Malawi 🇲🇼, specializing in **heal
 
 ### 📫 Connect with Me
 
-📧 Email: **kayangepetros@gmail.com**  
-💼 LinkedIn: [**Petros Kayange**](https://www.linkedin.com/in/petros-kayange/)  
-🌍 Website: [**Coming Soon...**]  
+- 📧 **Email:** [kayangepetros@gmail.com](mailto:kayangepetros@gmail.com)  
+- 💼 **LinkedIn:** [Petros Kayange](https://www.linkedin.com/in/petros-kayange/)  
+- 🌍 **Website(s):**  
+  - [Petros Kayange (Netlify)](https://petroskayange.netlify.app/)  
+  - [Petros Kayange (GitHub Pages)](https://petroskayange.github.io/my_profile/)  
+  - [Petros Kayange (Vercel)](https://petroskayange.vercel.app/)
 
 Let's collaborate on exciting projects! 🚀
