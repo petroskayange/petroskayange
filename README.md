@@ -2,7 +2,7 @@
 
 🚀 **Software Engineer | Full Stack Developer | Open Source Contributor**
 
-I am a passionate software engineer from Malawi 🇲🇼, specializing in **healthcare systems** with over **4 years** of experience in software development, lab machine integration, and system support.
+I am a passionate software engineer from Malawi 🇲🇼, specializing in **healthcare systems** with over **5 years** of experience in software development, lab machine integration, and system support.
 
 ---
 
