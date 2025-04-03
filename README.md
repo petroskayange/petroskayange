@@ -42,8 +42,6 @@ I am a passionate software engineer from Malawi 🇲🇼, specializing in **heal
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petroskayange&layout=compact&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=petroskayange&theme=vue&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-[![committers.top badge](https://user-badge.committers.top/malawi/USERNAME.svg)](https://user-badge.committers.top/malawi/petroskayange)
-
 
 ---
 
